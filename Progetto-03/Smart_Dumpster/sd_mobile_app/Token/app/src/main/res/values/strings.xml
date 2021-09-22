@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dumpster_Mobile_App</string>
+    <string name="send">SEND</string>
+    <string name="verde">Verde</string>
+    <string name="premi_per_connetterti_al_bluetooth">Premi per connetterti al bluetooth</string>
+    <string name="blu">Blu</string>
+    <string name="giallo">Giallo</string>
+    <string name="extend">Extend</string>
+    <string name="chat_history">CHAT HISTORY</string>
+    <string name="status_not_connected">Status : not connected</string>
+</resources>

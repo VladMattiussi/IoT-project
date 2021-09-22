@@ -1,0 +1,2 @@
+I FILE MiniTimerOne.cpp e MiniTimerOne.h appartengono ad una libreria
+reperibile al link : https://github.com/cake-lier/MiniTimerOne

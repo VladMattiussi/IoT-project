@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../AndroidBluetoothEx.iml" filepath="$PROJECT_DIR$/../AndroidBluetoothEx.iml" group="AndroidBluetoothEx" />
+      <module fileurl="file://$PROJECT_DIR$/../bt-client/bt-client.iml" filepath="$PROJECT_DIR$/../bt-client/bt-client.iml" group="AndroidBluetoothEx/bt-client" />
+      <module fileurl="file://$PROJECT_DIR$/../bt-client-for-emulator/bt-client-for-emulator.iml" filepath="$PROJECT_DIR$/../bt-client-for-emulator/bt-client-for-emulator.iml" group="AndroidBluetoothEx/bt-client-for-emulator" />
+      <module fileurl="file://$PROJECT_DIR$/../bt-lib/bt-lib.iml" filepath="$PROJECT_DIR$/../bt-lib/bt-lib.iml" group="AndroidBluetoothEx/bt-lib" />
+      <module fileurl="file://$PROJECT_DIR$/bt-server.iml" filepath="$PROJECT_DIR$/bt-server.iml" group="AndroidBluetoothEx/bt-server" />
+    </modules>
+  </component>
+</project>

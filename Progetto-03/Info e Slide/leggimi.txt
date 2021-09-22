@@ -1,0 +1,11 @@
+Progetto #3 - Smart dumpster
+https://docs.google.com/document/d/1nDHPowjjx0z_oTJF-qzlcCwXW8afP5O3o_KHDEHAcJQ/edit
+
+Note sulla comunicazione arduino-android
+https://docs.google.com/document/d/1q_C5drpIxx0SubPZVVwqyqx0uFD4G1fZW4d2NdU8VwA/edit
+
+Note su ESP8266
+https://docs.google.com/document/d/1F2Xr2NeXIJ7Ug6Bru6pBFdCLF8JfVXMGOWoZY2czPUw/edit
+
+Configurazione e uso bluetooth HC-06
+https://docs.google.com/document/d/1K6ssX5rR63T4AFL4FYP9a0367Mc0Y3u_N-j-37fliik/edit

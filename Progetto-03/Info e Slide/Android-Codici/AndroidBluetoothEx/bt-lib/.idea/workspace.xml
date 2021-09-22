@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="06c2436a-3da9-4b1f-9645-444df525ba4a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Smart_Dumpster/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Smart_Dumpster/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Smart_Dumpster/app/src/main/java/Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Smart_Dumpster/app/src/main/java/Listener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Smart_Dumpster/app/src/main/java/TokenListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Smart_Dumpster/app/src/test/java/BluetoothChannel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Smart_Dumpster/app/src/test/java/BluetoothDeviceNotFound.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Smart_Dumpster/app/src/test/java/BluetoothManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Smart_Dumpster/app/src/test/java/BluetoothUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Smart_Dumpster/app/src/test/java/C.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Smart_Dumpster/app/src/test/java/CommChannel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Smart_Dumpster/app/src/test/java/ConnectToBluetoothServerTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Smart_Dumpster/app/src/test/java/ConnectionTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Smart_Dumpster/app/src/test/java/ExtendedRunnable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Smart_Dumpster/app/src/test/java/RealBluetoothChannel.java" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="130" />
+    <option name="y" value="-20" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectId" id="1YiNwWs4uWol6xqGYMtTEZs5ciG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06c2436a-3da9-4b1f-9645-444df525ba4a" name="Default Changelist" comment="" />
+      <created>1583252326036</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583252326036</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.scene.effect.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.shape.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+<Pane fx:id="pane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="423.0" prefWidth="737.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Button fx:id="single" layoutX="160.0" layoutY="177.0" mnemonicParsing="false" onAction="#setSingle" prefHeight="31.0" prefWidth="69.0" text="Single">
+         <font>
+            <Font name="Yu Gothic UI Regular" size="15.0" />
+         </font></Button>
+      <Button fx:id="manual" layoutX="290.0" layoutY="177.0" mnemonicParsing="false" onAction="#setManual" text="Manual">
+         <font>
+            <Font name="Yu Gothic UI Regular" size="15.0" />
+         </font></Button>
+      <Button fx:id="auto" layoutX="36.0" layoutY="177.0" mnemonicParsing="false" onAction="#setAuto" prefHeight="31.0" prefWidth="69.0" text="Auto">
+         <font>
+            <Font name="Yu Gothic UI Regular" size="15.0" />
+         </font></Button>
+      <ComboBox fx:id="cmb" editable="true" layoutX="30.0" layoutY="69.0" prefWidth="150.0" />
+      <Sphere layoutX="132.0" layoutY="251.0" radius="0.77" />
+      <Label fx:id="labelPorta" layoutX="25.0" layoutY="28.0" prefHeight="21.0" prefWidth="196.0" text="Scegliere la porta di arduino">
+         <font>
+            <Font name="Yu Gothic UI Light" size="16.0" />
+         </font></Label>
+      <Label fx:id="labelFunzionamento" layoutX="24.0" layoutY="137.0" text="Modalità di funzionamento">
+         <font>
+            <Font name="Yu Gothic UI Light" size="16.0" />
+         </font></Label>
+      <Label fx:id="labelConsole" layoutX="534.0" layoutY="28.0" text="Console">
+         <font>
+            <Font name="Yu Gothic UI Light" size="16.0" />
+         </font></Label>
+      <Button fx:id="btnServo" layoutX="241.0" layoutY="283.0" mnemonicParsing="false" onAction="#attivaRotazione" prefHeight="31.0" prefWidth="118.0" text="Ruota Servo">
+         <font>
+            <Font name="Yu Gothic UI Regular" size="15.0" />
+         </font></Button>
+      <TextArea fx:id="console" layoutX="406.0" layoutY="69.0" prefHeight="332.0" prefWidth="310.0">
+         <font>
+            <Font name="Yu Gothic UI Regular" size="15.0" />
+         </font></TextArea>
+      <TextField fx:id="servoTxt" layoutX="36.0" layoutY="283.0" prefHeight="31.0" prefWidth="118.0" />
+      <TextField fx:id="tmaxTxt" layoutX="36.0" layoutY="373.0" prefHeight="31.0" prefWidth="80.0" />
+      <Label layoutX="24.0" layoutY="252.0" text="Rotazione servo tramite modalità Manual">
+         <font>
+            <Font name="Yu Gothic UI Light" size="16.0" />
+         </font></Label>
+      <Label layoutX="53.0" layoutY="346.0" text="Tmax">
+         <font>
+            <Font name="Yu Gothic UI Light" size="16.0" />
+         </font></Label>
+      <Button fx:id="chiudiSeriale" layoutX="250.0" layoutY="100.0" mnemonicParsing="false" onAction="#disconnetti" prefHeight="31.0" prefWidth="118.0" text="Chiudi seriale">
+         <font>
+            <Font name="Yu Gothic UI Regular" size="15.0" />
+         </font></Button>
+      <TextField fx:id="tminTxt" layoutX="140.0" layoutY="373.0" prefHeight="31.0" prefWidth="80.0" />
+      <Label layoutX="164.0" layoutY="346.0" text="Tmin">
+         <font>
+            <Font name="Yu Gothic UI Light" size="16.0" />
+         </font>
+      </Label>
+      <Button fx:id="apriSeriale" layoutX="250.0" layoutY="38.0" mnemonicParsing="false" onAction="#connetti" prefHeight="31.0" prefWidth="118.0" text="Apri Seriale" />
+      <Button fx:id="btnPot" layoutX="250.0" layoutY="373.0" mnemonicParsing="false" onAction="#cambiaTempo" prefHeight="31.0" prefWidth="118.0" text="Cambia tempo" />
+   </children>
+   <effect>
+      <InnerShadow color="#b5b5b5" height="31.1" radius="16.605" width="37.32" />
+   </effect>
+</Pane>

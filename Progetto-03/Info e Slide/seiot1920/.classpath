@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="java/src"/>
+	<classpathentry kind="lib" path="java/lib/jssc.jar"/>
+	<classpathentry kind="lib" path="java/lib/jackson-annotations-2.9.7.jar"/>
+	<classpathentry kind="lib" path="java/lib/jackson-core-2.9.7.jar"/>
+	<classpathentry kind="lib" path="java/lib/jackson-databind-2.9.7.jar"/>
+	<classpathentry kind="lib" path="java/lib/netty-all-4.1.31.Final.jar"/>
+	<classpathentry kind="lib" path="java/lib/vertx-core-3.5.4.jar"/>
+	<classpathentry kind="lib" path="java/lib/vertx-web-3.5.4.jar"/>
+	<classpathentry kind="lib" path="java/lib/vertx-web-client-3.5.4.jar"/>
+	<classpathentry kind="output" path="java/bin"/>
+</classpath>
